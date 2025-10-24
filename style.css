@@ -1,0 +1,17 @@
+html{
+    background: linear-gradient(to right, rgb(255, 184, 212), rgb(210, 151, 240));
+}
+
+.registrar{
+    padding-top: 350px;
+    text-align: center;
+}
+
+.inicio{
+    padding-top: 350px;
+    text-align: center
+}
+
+.meowl{
+    align-items: center;
+}
